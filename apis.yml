@@ -1,20 +1,51 @@
 aid: efficient-frontier
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/efficient-frontier.png
 name: Efficient Frontier
-description: Efficient Frontier is a company surfaced as a portfolio company of redpoint-ventures and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Efficient Frontier was a digital advertising optimization and search marketing company
+  founded in 2002 that applied algorithmic, finance-inspired bid optimization to manage over $1 billion
+  in annual marketing spend across search, display, and social (notably Facebook ad buying) for enterprise
+  clients such as Discover, Travelodge, and Match.com. Adobe acquired the company in late 2011 (announced
+  November 30, 2011; completed January 2012) and folded its multi-channel ad forecasting, execution, and
+  optimization capabilities into the Adobe Digital Marketing / Advertising Cloud. The efrontier.com domain
+  now redirects to adobe.com and the company has no independent website, developer portal, or public API.
 url: https://raw.githubusercontent.com/api-evangelist/efficient-frontier/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - redpoint-ventures
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: acquired-no-live-api
+x-status: acquired
+x-acquired-by: adobe
+x-acquired-announced: '2011-11-30'
+x-acquired-completed: '2012-01-15'
+x-enrichment-note: Enrichment pipeline ran 2026-07-19; company is defunct as an independent entity
+  (acquired by Adobe in 2011/2012). efrontier.com redirects to adobe.com — no live website, developer
+  portal, OpenAPI, SDKs, or other API surface exists to search, generate, or derive. No artifacts added
+  (no-fabrication).
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Advertising
+- Digital Advertising
+- Search Marketing
+- Social Advertising
+- Marketing Optimization
+- Acquired
+- Adobe
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +55,8 @@ maintainers:
 common:
 - type: Website
   url: http://www.efrontier.com/
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
