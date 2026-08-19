@@ -34,7 +34,7 @@ x-enrichment-note: Enrichment pipeline ran 2026-07-19; company is defunct as an 
   (acquired by Adobe in 2011/2012). efrontier.com redirects to adobe.com — no live website, developer
   portal, OpenAPI, SDKs, or other API surface exists to search, generate, or derive. No artifacts added
   (no-fabrication).
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
