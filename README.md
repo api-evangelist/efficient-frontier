@@ -64,6 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Efficient Frontier is a company surfaced as a portfolio company of redpoint-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: redpoint-ventures — http://www.efrontier.com/
+Efficient Frontier was a digital advertising optimization and search marketing company founded in 2002 that applied algorithmic, finance-inspired bid optimization to manage over $1 billion in annual marketing spend across search, display, and social (notably Facebook ad buying) for enterprise clients such as Discover, Travelodge, and Match.com. Adobe acquired the company in late 2011 (announced November 30, 2011; completed January 2012) and folded its multi-channel ad forecasting, execution, and optimization capabilities into the Adobe Digital Marketing / Advertising Cloud. The efrontier.com domain now redirects to adobe.com and the company has no independent website, developer portal, or public API.
+
+**Areas:** Company · Advertising · Digital Advertising · Search Marketing · Social Advertising · Marketing Optimization · Acquired · Adobe
+
+## Efficient Frontier on APIs.io (historical record)
+
+Everything profiled for Efficient Frontier is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/efficient-frontier/](https://apis.io/providers/efficient-frontier/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.efrontier.com/)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Efficient Frontier: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/efficient-frontier/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
